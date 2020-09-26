@@ -41,7 +41,7 @@
     "karma-phantomjs2-launcher": "0.1.6",
     "karma-requirejs": "0.2.6",
     "karma-script-launcher": "0.1.0",
-    "load-grunt-tasks": "0.4.0",
+    "load-grunt-tasks": "3.5.2",
     "requirejs": "2.1.22"
   },
   "scripts": {
